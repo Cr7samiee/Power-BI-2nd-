@@ -1,0 +1,11 @@
+﻿S.N,AMOUNT,PROFIT,QUANTITY,CATEGORY,PAYMENT
+1,1045,56,45,Electronic,Cash
+2,344,67,33,Cosmetic,Cheque
+3,3344,-8,2,Motor,Card
+4,1,-1,55,Cosmetic,Credit
+5,344,2,12,Motor,Credit
+6,455,-79,2,Electronic,Cash
+7,125,-34,1,Electronic,Cheque
+8,9800,16,6,Cosmetic,Cash
+9,788,200,7,Electronic,Cheque
+10,654,-56,67,Motor,Cheque
